@@ -1,0 +1,9 @@
+[MAIN]
+# Permite nombres cortos de argumentos como a, b en funciones matemáticas
+[BASIC]
+argument-naming-style=any
+variable-naming-style=any
+good-names=a,b,i,j,k,x,y,_
+
+[FORMAT]
+max-line-length=100
