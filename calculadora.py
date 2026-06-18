@@ -29,7 +29,7 @@ def resta(a, b):
     Returns:
         La diferencia entre ``a`` y ``b``.
     """
-    return a - b
+    return a + b
 
 
 def multiplicacion(a, b):
